@@ -1,20 +1,20 @@
-Are They Ghosting Me? 🤔💀
+# Are They Ghosting Me? 🤔💀
 
 About the App
 
-"Are They Ghosting Me?" is a fun and lighthearted Python-based GUI app designed to analyze the probability of someone ghosting you. Instead of overthinking and endlessly texting your friends, you can now get a calculated ghosting probability score! 🎯
+**"Are They Ghosting Me?"** is a fun and lighthearted Python-based GUI app designed to analyze the probability of someone ghosting you. Instead of overthinking and endlessly texting your friends, you can now get a calculated ghosting probability score! 🎯
 
-Features
+**Features**
 
-💬 Answer key questions about their behavior (e.g., response time, interaction, excuses, reels, stories, and trips)
+- 💬 Answer key questions about their behavior (e.g., response time, interaction, excuses, reels, stories, and trips)
 
-📊 Probability Calculation based on predefined logic
+- 📊 Probability Calculation based on predefined logic
 
-🎨 Pink-themed UI with heart-shaped buttons for a fun aesthetic
+- 🎨 Pink-themed UI with heart-shaped buttons for a fun aesthetic
 
-💡 Scientific? No. Painfully accurate? Maybe.
+- 💡 Scientific? No. Painfully accurate? Maybe.
 
-How It Works
+**How It Works**
 
 Open the app.
 
@@ -45,11 +45,11 @@ python ghosting_probability_gui.py
 
 Future Improvements
 
-✅ More AI-driven insights (because overthinking needs automation)
+- ✅ More AI-driven insights (because overthinking needs automation)
 
-✅ Better UI/UX with animations and custom fonts
+- ✅ Better UI/UX with animations and custom fonts
 
-✅ Mobile version (because ghosting happens everywhere)
+- ✅ Mobile version (because ghosting happens everywhere)
 
 Contributing
 
